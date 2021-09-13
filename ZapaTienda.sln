@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZapaTienda", "ZapaTienda\ZapaTienda.csproj", "{F9EFB0ED-6213-44C3-BDD3-F6475F95FB5A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F9EFB0ED-6213-44C3-BDD3-F6475F95FB5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9EFB0ED-6213-44C3-BDD3-F6475F95FB5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9EFB0ED-6213-44C3-BDD3-F6475F95FB5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9EFB0ED-6213-44C3-BDD3-F6475F95FB5A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {46BEC6E0-4AA2-4BDD-8056-ED0250AFCDF6}
+	EndGlobalSection
+EndGlobal
